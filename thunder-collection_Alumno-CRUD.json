@@ -1,21 +1,21 @@
 {
     "clientName": "Thunder Client",
     "collectionName": "Alumno-CRUD",
-    "collectionId": "20d0b8c9-cf58-438a-bbaf-10f7f417ca54",
-    "dateExported": "2024-08-12T23:54:43.017Z",
+    "collectionId": "b4ff9910-8d2f-4030-9078-3f9bd9119866",
+    "dateExported": "2024-08-14T22:32:07.023Z",
     "version": "1.2",
     "folders": [],
     "requests": [
         {
-            "_id": "b0fe99ed-028d-4307-bbf0-37e9b373aa86",
-            "colId": "20d0b8c9-cf58-438a-bbaf-10f7f417ca54",
+            "_id": "d4de8141-9b77-4363-a5d9-aa1d7a54fe1a",
+            "colId": "b4ff9910-8d2f-4030-9078-3f9bd9119866",
             "containerId": "",
             "name": "Crear Alumno",
-            "url": "localhost:3000/alumno",
+            "url": "localhost:3000/api/alumno",
             "method": "POST",
             "sortNum": 10000,
-            "created": "2024-08-12T22:11:54.841Z",
-            "modified": "2024-08-12T23:38:54.258Z",
+            "created": "2024-08-14T22:16:48.798Z",
+            "modified": "2024-08-14T22:17:29.741Z",
             "headers": [],
             "body": {
                 "type": "json",
@@ -24,39 +24,39 @@
             }
         },
         {
-            "_id": "27e5dc8f-0e17-4945-a054-7b566c6c3902",
-            "colId": "20d0b8c9-cf58-438a-bbaf-10f7f417ca54",
+            "_id": "25354da9-1589-4aef-b23d-c121f9ead759",
+            "colId": "b4ff9910-8d2f-4030-9078-3f9bd9119866",
             "containerId": "",
             "name": "Listar Alumnos",
-            "url": "localhost:3000/alumno",
+            "url": "localhost:3000/api/alumno",
             "method": "GET",
             "sortNum": 20000,
-            "created": "2024-08-12T22:13:43.607Z",
-            "modified": "2024-08-12T22:13:51.697Z",
+            "created": "2024-08-14T22:16:48.799Z",
+            "modified": "2024-08-14T22:17:04.941Z",
             "headers": []
         },
         {
-            "_id": "92c82a01-1327-4987-90fe-362d71869294",
-            "colId": "20d0b8c9-cf58-438a-bbaf-10f7f417ca54",
+            "_id": "16801cb8-1037-4853-8ded-c2eb903ee231",
+            "colId": "b4ff9910-8d2f-4030-9078-3f9bd9119866",
             "containerId": "",
             "name": "Obtener Alumno",
-            "url": "localhost:3000/alumno/1",
+            "url": "localhost:3000/api/alumno/1",
             "method": "GET",
             "sortNum": 30000,
-            "created": "2024-08-12T22:14:34.021Z",
-            "modified": "2024-08-12T23:15:36.994Z",
+            "created": "2024-08-14T22:16:48.800Z",
+            "modified": "2024-08-14T22:17:15.146Z",
             "headers": []
         },
         {
-            "_id": "7845354f-6f93-481c-aa07-b9a8dbbe6b2b",
-            "colId": "20d0b8c9-cf58-438a-bbaf-10f7f417ca54",
+            "_id": "32ff4a31-6b92-492a-815a-76631505ec3b",
+            "colId": "b4ff9910-8d2f-4030-9078-3f9bd9119866",
             "containerId": "",
             "name": "Actulizar Alumno",
-            "url": "localhost:3000/alumno/1",
+            "url": "localhost:3000/api/alumno/1",
             "method": "PUT",
             "sortNum": 40000,
-            "created": "2024-08-12T23:06:29.458Z",
-            "modified": "2024-08-12T23:15:29.074Z",
+            "created": "2024-08-14T22:16:48.801Z",
+            "modified": "2024-08-14T22:31:51.405Z",
             "headers": [],
             "body": {
                 "type": "json",
@@ -65,17 +65,17 @@
             }
         },
         {
-            "_id": "a0c7217d-1344-468a-8a9e-48515a26e474",
-            "colId": "20d0b8c9-cf58-438a-bbaf-10f7f417ca54",
+            "_id": "54155d5b-cb43-407a-aff6-a1d1bfbc3b15",
+            "colId": "b4ff9910-8d2f-4030-9078-3f9bd9119866",
             "containerId": "",
             "name": "Borrar Alumno",
-            "url": "localhost:3000/alumno/2",
+            "url": "localhost:3000/api/alumno/2",
             "method": "DELETE",
             "sortNum": 50000,
-            "created": "2024-08-12T23:33:01.864Z",
-            "modified": "2024-08-12T23:36:48.482Z",
+            "created": "2024-08-14T22:16:48.802Z",
+            "modified": "2024-08-14T22:31:57.400Z",
             "headers": []
         }
     ],
-    "ref": "i_E2hmkCf97qVcLryGJQyYV4sK1ej2TN1yg9XTQxEQSTwxvyxVGHe0XYPp3SJ7dgD5B7f4IwDbb10V7aHJAgqg"
+    "ref": "QKBnGC7FXBhM3z8TvEb1IA7yKVHvb4t-VPZjw1TwgrVPGgl-s43lMckrXNHY5qC5-E4TvgCAgRvWlf2IcTrN-A"
 }
